@@ -1,6 +1,5 @@
 ### ABout Me
-I am currently holding the <span style="color:lightblue">M.Sc Quantum Devices</span> at [Polytechnic Institute of Paris](https://www.ip-paris.fr) in Paris, France. I'm also working as a <span style="color:lightblue">R&D Quantum Computing </span> in the field of Drug Discovery Acceleration with Quantum Accuracy between the two joint companies [Qubit Pharmaceuticals](https://www.qubit-pharmaceuticals.com) and [Eviden-Atos](https://eviden.com/fr-fr/). 
-
+I am currently holding the <span style="color:lightblue">M.Sc Quantum Devices</span> at [Polytechnic Institute of Paris](https://www.ip-paris.fr) in Paris, France.
 My main research is specializied in **Quantum Information and Quantum Computation**, in particular: quantum correlations, engtanglement, higher-order quantum operations, quantum optimization ([OpenVQE](https://arxiv.org/abs/2206.08798)) and semidefinite programming.
 
 <!--
