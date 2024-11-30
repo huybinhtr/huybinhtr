@@ -1,4 +1,4 @@
-### ABout Me
+## ABout Me
 I am currently holding the <span style="color:lightblue">M.Sc Quantum Devices</span> at [Polytechnic Institute of Paris](https://www.ip-paris.fr) & [Paris Cité Université](https://u-paris.fr/) in Paris, France.
 My main research is specializied in **Quantum Computing for Quantum Chemistry**, in particular: quantum correlations, engtanglement, higher-order quantum operations, quantum optimization for Quantum Chemistry . I am also the lead contributor in an open source package ([OpenVQE](https://arxiv.org/abs/2206.08798)).
 
