@@ -1,6 +1,6 @@
 ### ABout Me
-I am currently holding the <span style="color:lightblue">M.Sc Quantum Devices</span> at [Polytechnic Institute of Paris](https://www.ip-paris.fr) in Paris, France.
-My main research is specializied in **Quantum Information and Quantum Computation**, in particular: quantum correlations, engtanglement, higher-order quantum operations, quantum optimization ([OpenVQE](https://arxiv.org/abs/2206.08798)) and semidefinite programming.
+I am currently holding the <span style="color:lightblue">M.Sc Quantum Devices</span> at [Polytechnic Institute of Paris](https://www.ip-paris.fr) & in Paris, France.
+My main research is specializied in **Quantum Computing for Quantum Chemistry**, in particular: quantum correlations, engtanglement, higher-order quantum operations, quantum optimization for Quantum Chemistry ([OpenVQE](https://arxiv.org/abs/2206.08798)).
 
 <!--
 **huybinhtr/huybinhtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
