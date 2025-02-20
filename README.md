@@ -1,6 +1,6 @@
 ## ABout Me
-I am currently holding the <span style="color:lightblue">M.Sc Quantum Devices</span> at [Polytechnic Institute of Paris](https://www.ip-paris.fr) & [Paris Cité Université](https://u-paris.fr/) in Paris, France.
-My main research is specializied in **Quantum Computing for Quantum Chemistry**, in particular: quantum correlations, engtanglement, higher-order quantum operations, quantum optimization for Quantum Chemistry . I am also the lead contributor in an open source package ([OpenVQE](https://github.com/OpenVQE/OpenVQE)).
+I hold the <span style="color:lightblue">M.Sc Quantum Devices</span> at [Polytechnic Institute of Paris](https://www.ip-paris.fr) & [Paris Cité Université](https://u-paris.fr/) in Paris, France.
+My main research is specializied in **Quantum Computing for Quantum Chemistry**, in particular: quantum correlations, engtanglement, higher-order quantum operations, quantum optimization for Quantum Chemistry . I am also the lead contributor in an open source package ([OpenVQE](https://github.com/OpenVQE/OpenVQE)). And now I am working in Quantum Simulation at EDF Lab Les Renardières.
 
 <!--
 **huybinhtr/huybinhtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
