@@ -1,5 +1,5 @@
 ## ABout Me
-I hold the <span style="color:lightblue">M.Sc Quantum Devices</span> at [Polytechnic Institute of Paris](https://www.ip-paris.fr) & [Paris Cité Université](https://u-paris.fr/) in Paris, France.
+I hold the <span style="color:lightblue">M.Sc Quantum Devices</span> at [Polytechnic Institute of Paris](https://www.ip-paris.fr) & [Paris Cité Université](https://u-paris.fr/) in Paris, France. Currently, I pursuit my PhD in Quantum Algorithms for the electronic structure
 
 <!--
 **huybinhtr/huybinhtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
